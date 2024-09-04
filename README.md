@@ -1,17 +1,9 @@
 # JKU.js
 
-A simple wrapper around various api endpoints from which data can be gethered. 
-
 > [!WARNING]
 > This project is currently in active development and subject to change. Breaking changes are expected.
 
-##### Table of Contents
-
-* [Why?](#Goal) 
-* [Install](#Install) 
-* [Supported](#Supported)
-* [Contribution](#Contribution)
-* [Planned](#Planned)
+A simple wrapper around various api endpoints from which data can be gethered. 
 
 ## Goal
 
